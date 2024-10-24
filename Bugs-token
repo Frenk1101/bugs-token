@@ -1,1 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of Bugs Token"
+git remote add origin https://github.com/yourusername/bugs-token.git
+git push -u origin main
 
